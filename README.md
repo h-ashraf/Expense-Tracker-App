@@ -15,7 +15,7 @@ Expense Tracker is a mobile app built using React Native and Redux for state man
 
    ```sh
    git clone https://github.com/h-ashraf/Expense-Tracker-App.git
-   ,,,
+   ```
 2. **Navigate to the project directory**:
    ```sh
    cd Expense-Tracker-App
