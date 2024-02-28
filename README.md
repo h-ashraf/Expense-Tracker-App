@@ -1,12 +1,12 @@
 # Expense Tracker with React Native and Redux
 
-Expense Tracker is a mobile app built using React Native and Redux for state management. It allows users to track their income and expenses, visualize spending patterns, and efficiently manage their finances on the go.
+Expense Tracker is a mobile app built using React Native and Redux for state management. It allows users to track their income and expenses, visualise spending patterns, and efficiently manage their finances on the go.
 
 ## Features
 
 - Track income and expenses
 - Add, edit, and delete expenses
-- Visualize spending patterns with charts and graphs
+- Visualise spending patterns with charts and graphs
 - Efficient state management with Redux
 
 ## Installation
