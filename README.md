@@ -20,15 +20,15 @@ Expense Tracker is a mobile app built using React Native and Redux for state man
    ```sh
    cd Expense-Tracker-App
    ```
-3.**Install dependencies using npm**:
-```sh
-npm install
-```
-4.**Start the development server**:
-```sh
-npm start
-```
-5.**Follow the instructions to run the app on an iOS or Android emulator, or on a physical device.**
+3. **Install dependencies using npm**:
+   ```sh
+   npm install
+   ```
+4. **Start the development server**:
+   ```sh
+   npm start
+   ```
+5. **Follow the instructions to run the app on an iOS or Android emulator, or on a physical device.**
 
 ## Usage
 
